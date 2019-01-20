@@ -876,7 +876,7 @@
 #define Y_BED_SIZE 220
 
 // Tronxy X3A specific offsets
-#define TRONXY_X_BED_OFFSET -17
+#define TRONXY_X_BED_OFFSET -23
 #define TRONXY_Y_BED_OFFSET -25
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
